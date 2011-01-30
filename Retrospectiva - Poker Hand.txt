@@ -1,0 +1,13 @@
+BOM:
+O desafio foi legal
+Teve Pizza
+Todo mundo participou
+
+
+
+
+
+RUIM:
+Faltou discutir a estrategia para resolucao do desafio
+Tempo de alternar muito alto
+Faltou disciplina dos participantes
